@@ -1,4 +1,4 @@
-# 2ØY (To Know Why) Values
+# 2ØY's (To Know Why) Values
 
 ### 0.1 Our Calling
 
